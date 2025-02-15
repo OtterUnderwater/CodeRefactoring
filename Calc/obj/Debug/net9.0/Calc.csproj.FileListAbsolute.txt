@@ -12,3 +12,4 @@ E:\otter\C#\Calc\Calc\obj\Debug\net9.0\refint\Calc.dll
 E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.pdb
 E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.genruntimeconfig.cache
 E:\otter\C#\Calc\Calc\obj\Debug\net9.0\ref\Calc.dll
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.sourcelink.json

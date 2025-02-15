@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\otter\\C#\\Calc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2544D222-4C5F-4D4A-B9D4-C96EF4FA4C4D}|Calc\\Calc.csproj|e:\\otter\\c#\\calc\\calc\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2544D222-4C5F-4D4A-B9D4-C96EF4FA4C4D}|Calc\\Calc.csproj|solutionrelative:calc\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2544D222-4C5F-4D4A-B9D4-C96EF4FA4C4D}|Calc\\Calc.csproj|e:\\otter\\c#\\calc\\calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2544D222-4C5F-4D4A-B9D4-C96EF4FA4C4D}|Calc\\Calc.csproj|solutionrelative:calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\otter\\C#\\Calc\\Calc\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calc\\Calculator.cs",
+              "ToolTip": "E:\\otter\\C#\\Calc\\Calc\\Calculator.cs",
+              "RelativeToolTip": "Calc\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:43:22.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\otter\\C#\\Calc\\Calc\\Program.cs",
               "RelativeDocumentMoniker": "Calc\\Program.cs",
               "ToolTip": "E:\\otter\\C#\\Calc\\Calc\\Program.cs",
               "RelativeToolTip": "Calc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:13:10.959Z",
               "EditorCaption": ""
