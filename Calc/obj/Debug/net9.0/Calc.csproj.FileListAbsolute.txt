@@ -1,0 +1,14 @@
+E:\otter\C#\Calc\Calc\bin\Debug\net9.0\Calc.exe
+E:\otter\C#\Calc\Calc\bin\Debug\net9.0\Calc.deps.json
+E:\otter\C#\Calc\Calc\bin\Debug\net9.0\Calc.runtimeconfig.json
+E:\otter\C#\Calc\Calc\bin\Debug\net9.0\Calc.dll
+E:\otter\C#\Calc\Calc\bin\Debug\net9.0\Calc.pdb
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.AssemblyInfoInputs.cache
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.AssemblyInfo.cs
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.csproj.CoreCompileInputs.cache
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.dll
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\refint\Calc.dll
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.pdb
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\Calc.genruntimeconfig.cache
+E:\otter\C#\Calc\Calc\obj\Debug\net9.0\ref\Calc.dll
